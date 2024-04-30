@@ -2,7 +2,7 @@
 
 I really wanted a set of articulated finger extensions like the ones that Dragonator has posted [here](https://www.instructables.com/3D-Printed-Articulated-Finger-Extensions/), but none of his files suited my stubby little fingers. So here is my version, that's fully parametric.
 
-!(images/fingers.apng)
+![Articulated fingers](images/fingers.apng)
 
 Unless you want to start tweaking the code, all the settings you need are in prefs.scad. Use it to enter the measurements of your printer, and choose which part(s) you want to print. Then open finger.scad in OpenSCAD to render and print it.
 
